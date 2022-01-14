@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SardiusJay
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...HTML,CSS and JavaScript
-- 💞️ I’m looking to collaborate on ... Frontend developers
+- 👀 I’m Junior Frontend developer
+- 🌱 I’m working with HTML,CSS and JavaScript(Learning in Progress with the framework Reactjs)
+- 💞️ I’m looking to collaborate with... softwre developers(Frontend,Backend)
 - 📫 How to reach me ...+2348068746276
 
 <!---
