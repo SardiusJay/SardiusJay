@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SardiusJay
-- 👀 I’m Frontend developer && Creative Designer
-- 🌱 I’m working with HTML,CSS and JavaScript(Learning in Progress with the framework Reactjs) and Figma pluggin
-- 💞️ I’m looking to collaborate with... softwre developers(Frontend,Backend)
+- 👀 I’m Web developer && Creative Designer
+- 🌱 I’m working with HTML,CSS and JavaScript(Learning in Progress with the Library Reactjs) and Figma pluggin
+- 💞️ I’m looking to collaborate with... softwre developers(Frontend,Backend and Full-Stack developer)
 - 📫 How to reach me ...+2348068746276
 
 <!---
