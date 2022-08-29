@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m Oluwatobi, a front-end engineer && UI designer, creative coder and self-taught designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites that run well and  fast.
+
 <!--
 **SardiusJay/SardiusJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
