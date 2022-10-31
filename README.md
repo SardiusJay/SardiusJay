@@ -1,19 +1,40 @@
-### Hi there 👋
 
-I’m Oluwatobi, a front-end engineer && UI designer, creative coder and self-taught designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites that run well and  fast.
+# Hi, I'm Oluwatobi Abidoye! 👋
 
-<!--
-**SardiusJay/SardiusJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 I'm Frontend developer
+I'm passionate about building good User Interface(UI) for Clients, i work with open source Project and Am passionate about building other tech youmg folks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Got a project or need tech talents? Hit me up!
+
+
+## 🔗 CONNECT WITH ME
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/https://sardiusportfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-oluwatobi-abidoye-4826b9224/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SardiusJay)
+
+
+🤝 Open for work, freelance and Open source contributions
+## 🛠 Skills
+HTML, CSSS, Bootstrap, Tailwind Javascript, React, Netlify, Vercel, Sass
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on A Solution for Africa base On Fintech
+
+🧠 I'm currently learning Mobile development
+
+👯‍♀️ I'm looking to collaborate on Open source Project
+
+🤔 I'm looking for help with Jobs
+
+💬 Ask me about Web development
+
+📫 How to reach me Abidoyejay@gmail.com
+
+😄 Pronouns He
+
+⚡️ Fun fact Buid Capacity to achieve Greatness
+
+
 
