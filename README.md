@@ -34,7 +34,7 @@ HTML, CSSS, Bootstrap, Tailwind Javascript, React, Netlify, Vercel, Sass
 
 😄 Pronouns He
 
-⚡️ Fun fact Buid Capacity to achieve Greatness
+⚡️ Fun fact I Design I Code I Write I Teach Tech
 
 
 
