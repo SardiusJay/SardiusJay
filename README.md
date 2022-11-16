@@ -35,6 +35,6 @@ HTML, CSSS, Bootstrap, Tailwind Javascript, React, Netlify, Vercel, Sass
 😄 Pronouns He
 
 ⚡️ Fun fact I Design I Code I Write I Teach Tech
-
+[![@sardiusjay's Holopin board](https://holopin.me/sardiusjay)](https://holopin.io/@sardiusjay
 
 
