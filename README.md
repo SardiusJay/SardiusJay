@@ -1,9 +1,9 @@
 
-# Hi, I'm Oluwatobi Abidoye! 👋
+# Hi, I'm Oluwatobi! 👋
 
 
 ## 🚀 I'm Frontend developer
-I'm passionate about building good User Interface(UI) for Clients, i work with open source Project and Am passionate about building other tech youmg folks
+I'm passionate about building suitable User Interfaces (UI) for Clients, I work with open-source projects, and I Am passionate about making other tech young folks.
 
 Got a project or need tech talents? Hit me up!
 
