@@ -7,7 +7,7 @@ Frontend Engineer && Creative Designer
 I'm passionate about building suitable User Interfaces (UI) for Clients, I work with open-source projects, and I Am passionate about teaching other tech young folks. Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [MyPortfolio](http://https://sardiusportfolio.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](http://https://tobi-blush.vercel.app/)
 * ✉️  You can contact me at [abidoyejay@gmail.com](mailto:abidoyejay@gmail.com)
 * 🧠  I'm learning Javascript Framework
 * 🤝  I'm open to collaborating on I'm open to collaborating on Interesting projects
