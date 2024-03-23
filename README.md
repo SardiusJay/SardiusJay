@@ -51,5 +51,4 @@ src="https://img.shields.io/github/followers/SardiusJay?logo=github&style=for-th
                   
 
 ⚡️ Fun fact I Design I Code I Write I Teach Tech
-[![@sardiusjay's Holopin board '22](https://holopin.me/sardiusjay)](https://holopin.io/@sardiusjay
 
