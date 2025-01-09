@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oluwatobi
 =================================================================================================================================
 
-Frontend Developer 
+Web Developer 
 --------------------------------------
 
 I'm passionate about building suitable User Interfaces (UI) for Clients, I work with open-source projects, and I Am passionate about teaching other tech young folks. Solving problems with my software development skills is what moves me and keeps me in a constant quest for knowledge.
